@@ -1,0 +1,5 @@
+# Example Environment Variables for LangGraph Multi-Agent App
+
+# Groq API Key
+GROQ_API_KEY=your-groq-api-key-here
+TAVILY_API_KEY = your_tavily_api_key
