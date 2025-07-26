@@ -10,7 +10,7 @@ This is a FastAPI app that uses a LangGraph-powered Supervisor to coordinate:
 1. Clone repo and create `.env` file:
 
 ```bash
-cp .env.example .env
+cp .env
 ```
 
 2. Install dependencies:
